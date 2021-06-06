@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;kurs.AVLTree&apos; to &apos;AVLTreeI&apos;&#x0D;&#x0A;- Original project: &apos;MITKurs6006&apos;&#x0D;&#x0A;- Original element: &apos;kurs.AVLTree&apos;&#x0D;&#x0A;- Renamed element: &apos;kurs.AVLTreeI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AVLTree&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;kurs{AVLTree.java[AVLTree" matchStrategy="1" name="AVLTreeI" qualified="false" references="true" similarDeclarations="false" stamp="1599990926994" textual="false" version="1.0"/>
+</session>
